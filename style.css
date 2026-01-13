@@ -6,9 +6,20 @@ header{
     display: flex;
     margin: auto;
     padding: 15px;
+    justify-content: space-between;
 }
 
 header nav ul{
     list-style: none;
     text-decoration: none;
+}
+
+main{
+    display: flex;
+    margin: auto;
+    justify-content: space-between;
+}
+
+main img{
+    
 }
